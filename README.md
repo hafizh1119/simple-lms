@@ -147,7 +147,7 @@ Menampilkan dashboard setelah login sebagai admin.
 
 Menampilkan container Docker yang sedang berjalan.
 
-![Docker](Dokuemntasi/docker.png)
+![Docker](Dokumentasi/docker.png)
 
 ---
 
