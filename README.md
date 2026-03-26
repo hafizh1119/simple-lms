@@ -131,7 +131,7 @@ Menampilkan bahwa aplikasi Django berhasil berjalan.
 
 Menampilkan halaman login admin Django.
 
-(Tambahkan screenshot http://localhost:8000/admin)
+![login](Dokumentasi/login.png)
 
 ---
 
@@ -139,15 +139,15 @@ Menampilkan halaman login admin Django.
 
 Menampilkan dashboard setelah login sebagai admin.
 
-(Tambahkan screenshot dashboard admin)
+![Admin](Dokumentasi/dashboard.png)
 
 ---
 
-### 🐳 4. Docker Running (Optional)
+### 🐳 4. Docker Running
 
 Menampilkan container Docker yang sedang berjalan.
 
-(Tambahkan screenshot Docker Desktop / docker ps)
+![Docker](Dokuemntasi/docker.png)
 
 ---
 
